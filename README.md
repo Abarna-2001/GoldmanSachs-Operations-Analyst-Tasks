@@ -1,4 +1,4 @@
-# Goldman Sachs - Operations Virtual Experience Program (Forage)
+# Goldman Sachs - Operations Job Simulation (Forage)
 
 ## About the Program
 - This repository contains my work for the **Goldman Sachs Operations Analyst Virtual Experience Program** offered through Forage.
